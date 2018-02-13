@@ -20,7 +20,7 @@ import java.util.regex.Pattern;
 /**
  * Created by Ayo on 2/9/2018.
  */
-
+//TODO can we get a clear understanding of binding?
 public class RegisterFragment extends Fragment {
     private static final String TAG = "RegisterFragment";
 
